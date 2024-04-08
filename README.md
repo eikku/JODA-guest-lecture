@@ -1,6 +1,8 @@
 # JODA-guest-lecture
 Tämä on vierailuluento Tampereen ylipiston JODA luentosarjaan keväällä 2024
 
+[Kalvot](https://docs.google.com/presentation/d/1aHIqTpsBRfWcC_dylQrWOptGvWNMrX8ZXAqxBbSMkH4/edit?usp=sharing)
+
 #### Esimerkkitutoriaalit
 Semanttinen haku open source huggingface transformers
   * [Huggingface tutoriaali](https://huggingface.co/spaces/sentence-transformers/embeddings-semantic-search)
